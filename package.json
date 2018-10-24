@@ -1,0 +1,23 @@
+{
+  "name": "curso-api-rest",
+  "version": "1.0.0",
+  "description": "Curso ao vivo e gratuido pela twitch, youtube e facebook",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CollabCodeTech/curso-api-rest.git"
+  },
+  "keywords": [
+    "api",
+    "rest"
+  ],
+  "author": "CollabCode",
+  "license": "MPL-2.0",
+  "bugs": {
+    "url": "https://github.com/CollabCodeTech/curso-api-rest/issues"
+  },
+  "homepage": "https://github.com/CollabCodeTech/curso-api-rest#readme"
+}

@@ -1,4 +1,8 @@
-# O que a API de Collbas terá?
+# Conteúdo de aula ao vivo
+
+Esse conteúdo é de uma aula ao vivo feita pela twitch.tv/marcobrunobr aparece lá que tem aula de segunda a sexta começando às 21hrs :-)
+
+# O que a API de Collabs terá?
 
 ## CRUD
 

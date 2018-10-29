@@ -24,3 +24,13 @@ Será usada pra comprar cursos na plataforma http://www.collabcode.training e ta
 - 10 minutos => 3
 - 60 minutos => 18
 - U$ 1 =>
+
+# Como nos encontar nas redes
+
+> [Twitch](https://www.twitch.tv/marcobrunobr) -
+> [Facebook](https://web.facebook.com/collabcode/) -
+> [Youtube](https://www.youtube.com/c/collabcode) -
+> [Discord](https://discordapp.com/invite/H2uUkJv) -
+> [Twitter](https://twitter.com/collabcodetech) -
+> [Telegram](https://t.me/joinchat/BC29Kg9W_uNw8KEI-McrJQ) -
+> [WhatsApp](https://chat.whatsapp.com/C4XMmctV5fxBEc1AL8LLqb)
